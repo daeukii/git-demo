@@ -1,20 +1,11 @@
-# Git Practice
+# Git demo
 
-git을 사용하는 연습을 해봅시다.
+Github 연습
 
-## Git 기본 명령어
+## 한줄 더 넣고
 
-`git add`: 어떤 파일을 작업 이력으로 기록할 준비
-`git commit`:add 된 파일들을 바탕으로 새로운 변경사항(작업)을 기록
-
-## 추가 변경사항
-
-commit 하나
-
-## 지워질 변경사항
-
-지울 변경사항
-
-### add 안된 변경사항
-
-을 되돌려 볼게요
+```
+git add
+git commit
+git push
+```
